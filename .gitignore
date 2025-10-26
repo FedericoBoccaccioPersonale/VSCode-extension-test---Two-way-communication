@@ -1,0 +1,28 @@
+# ## File e cartelle di Visual Studio / .NET ##
+# Ignora le cartelle con i file compilati (eseguibili e librerie)
+**/[Bb]in/
+**/[Oo]bj/
+
+# Ignora la cache e le impostazioni utente di Visual Studio
+.vs/
+
+# Ignora i file di impostazioni specifiche dell'utente
+*.user
+*.suo
+
+# ## File dell'estensione VS Code / Node.js ##
+# Ignora le dipendenze scaricate da npm, che possono essere reinstallate
+**/node_modules/
+
+# Ignora il file pacchettizzato dell'estensione (se generato)
+*.vsix
+
+# Log di debug di npm
+npm-debug.log*
+
+# Ignora file di log generici
+*.log
+
+# File di sistema operativo
+.DS_Store
+Thumbs.db
