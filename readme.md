@@ -1,3 +1,5 @@
+VSCode extension test - Two-way communication
+
 # 🇮🇹
 Questo è un progetto di esempio per lanciare un programma `VB.NET` da un estensione VisualStudio Code e attivare la comunicazione bidirezionale.
 
