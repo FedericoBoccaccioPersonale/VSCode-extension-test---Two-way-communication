@@ -1,0 +1,11 @@
+{
+	"name": "vbnet-launcher",
+	"version": "1.0.0",
+	"main": "./extension.js",
+	"engines":
+	{
+		"vscode": "^1.85.0"
+	},
+	"activationEvents": ["*"],
+	"contributes": {}
+}
