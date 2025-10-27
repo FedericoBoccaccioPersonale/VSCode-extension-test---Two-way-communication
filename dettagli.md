@@ -54,6 +54,9 @@ Non sono affatto sicuro che il problema sia using, ritengo invece il problema si
 
 Sebbene anche adesso c' è `sr.ReadLine()` ma non è più bloccante.
 
+## Stdout
+Il metodo di inviare messaggi attraverso la console ha fallito.
+
 ## Efficienza
 Per quanto assurdo, è meglio usare un while true per la gestione dei messaggi perchè dovrebbe autosospendersi fino all' arrivo di un nuovo messaggio. Un Timer invece controllerebbe di continuo, anche quando non serve.
 
